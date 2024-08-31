@@ -37,7 +37,7 @@ Certification Year: 2021
 ## Contact
 
 - **Email:** yasminekajja@gmail.com
-- **LinkedIn:**  
+- **LinkedIn:**  www.linkedin.com/in/yasmine-kajja-a731a0314
 
 ---
 
