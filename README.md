@@ -1,5 +1,5 @@
 # Yasmine Kajja | Full Stack Developer
-
+### Based in Morocco
 Welcome to my GitHub profile! I am a Full Stack Developer with a robust foundation in web technologies, design skills using Figma, and proficiency in various databases. I excel in creating dynamic, responsive web applications and visual designs.
 
 ## Technical Skills
