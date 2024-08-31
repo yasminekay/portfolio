@@ -17,8 +17,15 @@ Welcome to my GitHub profile! I am a Full Stack Developer with a robust foundati
 - **DTS Bac +2**  
   Institut Spécialisé de Technologie Appliquée, Year of Completion:2024
 
+- **Diploma in Office Administration**
+Training Institute
+2022
 
+- **Baccalaureate in Life and Earth Sciences (SVT)**
+Certification Year: 2022
 
+- **Baccalaureate in Physics-Chemistry (PC)**
+Certification Year: 2021
 
 
 ## Languages
