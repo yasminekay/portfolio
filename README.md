@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I am a Full Stack Developer with a robust foundati
 - **DTS Bac +2**  
   Institut Spécialisé de Technologie Appliquée, Year of Completion:2024
 
-## Projects
+
 
 
 
@@ -29,9 +29,8 @@ Welcome to my GitHub profile! I am a Full Stack Developer with a robust foundati
 
 ## Contact
 
-- **Email:** 
-- **LinkedIn:** 
-- **Website/Portfolio:** 
+- **Email:** yasminekajja@gmail.com
+- **LinkedIn:**  
 
 ---
 
