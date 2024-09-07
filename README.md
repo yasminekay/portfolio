@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I am a Full Stack Developer with a robust foundati
 
 ## Technical Skills
 
+
 - **Languages & Technologies:** HTML, CSS, JavaScript, React.js, Laravel 10, Node.js
 - **Design Tools:** Figma
 - **Office Tools:** Microsoft Office (Excel, Word, PowerPoint)
